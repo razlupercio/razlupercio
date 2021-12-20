@@ -1,8 +1,8 @@
 # hello 🙌🏼 i'm raz
 
-I´m a systems engineer with experience as a secure engineer and web development. I have spent the last three and a half years as security reviewer consultant for a life insurance company. I usually use GitHub to store documentation I made for the CTF and boxes I solve. 
+> ## Always assume everything is possible! That's the real hacker mindset!
 
-> Always assume everything is possible! That's the real hacker mindset!
+I´m a systems engineer with experience as a secure engineer and web development. I have spent the last three and a half years as security reviewer consultant for a life insurance company. I usually use GitHub to store documentation I made for the CTF and boxes I solve. 
 
 - 🔏  I’m interested in all things infosec from GRC, pentesting and privacy.
 - 🌱  I’m currently pursing a certification (OSCP or something in the likes) and also a master degree @ UNAM.
