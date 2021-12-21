@@ -21,6 +21,7 @@ I´m a systems engineer with experience as a secure engineer and web development
 - [ ] get some nice shirts 😎
 
 
-<script src="https://tryhackme.com/badge/733612"></script>
+![thm](https://tryhackme-badges.s3.amazonaws.com/death2raz.png)
+
 
 [![Visits Badge](https://badges.pufler.dev/visits/razlupercio/razlupercio)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/razlupercio)](https://badges.pufler.dev)  [![Repos Badge](https://badges.pufler.dev/repos/razlupercio)](https://badges.pufler.dev)  [![Gists Badge](https://badges.pufler.dev/gists/razlupercio)](https://badges.pufler.dev)  [![Updated Badge](https://badges.pufler.dev/updated/razlupercio/razlupercio)](https://badges.pufler.dev)  [![Commits Badge](https://badges.pufler.dev/commits/monthly/razlupercio)](https://badges.pufler.dev)
