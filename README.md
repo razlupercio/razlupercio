@@ -10,12 +10,13 @@ I´m a systems engineer with experience as a secure engineer and web development
 - 👨🏻‍🏫  Always happy to help others sharing, and socializing knowledge with people.
 - ☕️  Available to get coffee!
 - 📫  How to reach me: raz@lupercio.mx or https://www.linkedin.com/in/razlupercio/
+- Some certs I hold: ITIL v4 Foundations, Security+, AWS Certified Cloud Practitioner 
 - ♘  Fun fact: I'm a long-life chess player! I started played at 4 and won some tournaments at college!
 
-### some milestones i'm aiming for 2022:
+### some milestones i'm aiming for 2026:
 
 - [x] use more github for storing my progress towards certifications.
-- [ ] get certified as much as possible.
+- [ ] reach 2000 elo in rapid on chesscom
 - [ ] share as much knoledge as i can.
 - [ ] finish the german course on duolingo.
 - [ ] get some nice shirts 😎
